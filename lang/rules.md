@@ -7,7 +7,7 @@
 
 ## translation
 
-1. `ph` in wûrds lík føn ør funɔlujē šud bēcum á singl `f`.
+1. `ph` in wûrds lík fón ør funɔlujē šud bēcum á singl `f`.
 2. Drɔp þa letė `c`, rēplás al instinsis of `c` wiþ a k ør s.
 3. Rēmōv al síliň letės, fôr exampl `carriage` šôd bēcums `kárij`
 4. Wûrds šôd bē spelt as clós tō þár prónuncēášn as pɔsibl, fôr exampl `coffee` bēcums `kɔfē`
