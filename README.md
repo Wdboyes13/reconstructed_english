@@ -1,6 +1,6 @@
-# Reconstructed English
+# Reconstructed English | Rēcunstructid ŋ̇liš
 
-English spelling redone to be consistent with pronunciation
+English spelling redone to be consistent with pronunciation | ŋ̇liš spelŋ̇ rēdun tō bē cunsistint wiþ prónuncēášin
 
 ## Repo structure
 
