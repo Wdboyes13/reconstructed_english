@@ -5,7 +5,7 @@
 3. Remove all silent letters, for example `carriage` should becomes `kárij`
 4. Words should be spelt as close to their pronunciation as possible, for example coffee becomes `kɔfē`
 
-## translation
+## Rōls
 
 1. `ph` ṅ wûrds lík fón ør funɔlujē šud bēcum á sŋ̇l `f`.
 2. Drɔp þa letė `c`, rēplás al ṅstṅsis of `c` wiþ a k ør s.
